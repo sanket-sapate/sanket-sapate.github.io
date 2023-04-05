@@ -1,0 +1,10 @@
+@media screen and (max-width: 640px) {
+	#projectCard {
+		transform: rotate(0) !important;
+		perspective: 0;
+	}
+}
+
+#projectCard:hover {
+	transform: rotate(0) !important;
+}

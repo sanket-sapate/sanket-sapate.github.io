@@ -1,0 +1,10 @@
+.heading {
+	background: -webkit-linear-gradient(90deg, black, white);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.burger {
+	color: black !important;
+}
